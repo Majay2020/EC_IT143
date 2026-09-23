@@ -1,0 +1,4 @@
+-- Step 2: The Answer Journey
+-- 1. Explore the dbo.recent-grads table to check column names and data types.
+-- 2. Query the table to filter specifically for 'Petroleum Engineering' in the Major column.
+-- 3. Extract the median earnings/salary for that major.
